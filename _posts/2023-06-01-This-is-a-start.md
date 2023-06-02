@@ -33,7 +33,7 @@ Wish me luck!
 
 UPDATE (02/06/2023):
 
-This [Markdown guide](https://www.markdownguide.org/getting-started/) has been really helpful as a beginner.  
+This [Markdown guide](https://www.markdownguide.org/getting-started/) has been really helpful as a beginner, after realising that Jekyll is the "markdown app" that is converting into HTML which is then readable by a browser.  
 
 > - Create a Markdown file using a text editor or a dedicated Markdown application. The file should have an .md or .markdown extension.  
 > - Open the Markdown file in a Markdown application.  
