@@ -7,7 +7,7 @@ This is my very first venture into programming.
 
 I've decided I would like to learn how to 'program' or 'code' (is there a difference? I still dont know..)  
 I am almost a completely blank canvas, apart from doing some very basic HTML in high school for Info-Tech classes, which is now pushing 15 years ago, and some *very* basic arduino.  
-*So maybe a blank canvas with some old crusty paint on it?*
+*So maybe a blank canvas with a little bit of old crusty paint on it?*
 
 I'm not sure where to start off on this journey, but I definitely have a bad case of option paralysis...  
 
