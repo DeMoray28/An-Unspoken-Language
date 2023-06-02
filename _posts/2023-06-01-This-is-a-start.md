@@ -3,8 +3,11 @@ title: "This is a start"
 date: 2023-06-01
 ---
 
-This is my very first venture into programming. But I've decided I would like to learn how to 'program' or 'code' (is there a difference? I still dont know..)  
-I am almost a completely blank canvas, apart from doing some very basic HTML in high school for Info-Tech classes, which is now pushing 15 years ago, and some *very* basic arduino.
+This is my very first venture into programming.  
+
+I've decided I would like to learn how to 'program' or 'code' (is there a difference? I still dont know..)  
+I am almost a completely blank canvas, apart from doing some very basic HTML in high school for Info-Tech classes, which is now pushing 15 years ago, and some *very* basic arduino.  
+*So maybe a blank canvas with some old crusty paint on it?*
 
 I'm not sure where to start off on this journey, but I definitely have a bad case of option paralysis...  
 
@@ -21,7 +24,8 @@ I am hoping to gain some solid basic understandings and fundamentals in computer
 
 ![Harvards CS50](https://prod-discovery.edx-cdn.org/media/course/image/da1b2400-322b-459b-97b0-0c557f05d017-a3d1899c3344.small.png "Harvards CS50")
 
-I've just made this page using github pages and 'Jekyll', which I'm not entirely sure about how it works, but if this page loads I guess I followed the tutorial closely enough.
+I've just made this page using github pages and 'Jekyll', which I'm not entirely sure about how it works, but if this page loads I guess I followed the tutorial closely enough.  
+I've also managed to get some images into the post through some googling, which I think will be doing a lot of over the coming months.
 
 Time will tell.
 
