@@ -37,10 +37,10 @@ Wish me luck!
 
 <font size="2">This</font>[<font size= "2">Markdown guide</font>](https://www.markdownguide.org/getting-started/)<font size="2">has been really helpful as a beginner, after realising that Jekyll is the "markdown app" that is converting into HTML which is then readable by a browser.</font>    
 
-> <font size="2">- Create a Markdown file using a text editor or a dedicated Markdown application. The file should have an .md or .markdown extension.  </font>  
-> <font size="2">- Open the Markdown file in a Markdown application.  </font>  
-> <font size="2">- Use the Markdown application to convert the Markdown file to an HTML document.  </font>  
-> <font size="2">- View the HTML file in a web browser or use the Markdown application to convert it to another file format, like PDF.  </font>  
+> <font size="2">- Create a Markdown file using a text editor or a dedicated Markdown application. The file should have an .md or .markdown extension.\n</font>  
+> <font size="2">- Open the Markdown file in a Markdown application.\n</font>  
+> <font size="2">- Use the Markdown application to convert the Markdown file to an HTML document.\n</font>  
+> <font size="2">- View the HTML file in a web browser or use the Markdown application to convert it to another file format, like PDF.\n</font>  
 
 <img src="https://mdg.imgix.net/assets/images/markdown-flowchart.png?auto=format&fit=clip&q=40&w=1080" title="The 4 steps of Markdown">
 
