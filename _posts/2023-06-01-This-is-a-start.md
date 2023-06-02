@@ -35,7 +35,8 @@ Wish me luck!
 
 UPDATE (02/06/2023):  
 
-This [Markdown guide](https://www.markdownguide.org/getting-started/) has been really helpful as a beginner, after realising that Jekyll is the "markdown app" that is converting into HTML which is then readable by a browser.
+After googling what Jekyll is actually doing, I stumbled upon the following;  
+This [Markdown guide](https://www.markdownguide.org/getting-started/) has been really helpful as a beginner, and helped show me what is actually (or theoretically) happening to the markdown files I am creating and editing.
 
 > - Create a Markdown file using a text editor or a dedicated Markdown application. The file should have an .md or .markdown extension. 
 > - Open the Markdown file in a Markdown application.
@@ -44,4 +45,4 @@ This [Markdown guide](https://www.markdownguide.org/getting-started/) has been r
 
 <img src="https://mdg.imgix.net/assets/images/markdown-flowchart.png?auto=format&fit=clip&q=40&w=1080" title="The 4 steps of Markdown">
 
-<Using the material available on there, I have been able to insert some images, create line breaks, add empahsis to some text, and even put in a sexy little "block quote".
+Knowing that I'm now working with the [Markdown LML](https://en.wikipedia.org/wiki/Lightweight_markup_language), I have been able to insert some images, create line breaks, add empahsis to some text, and even put in a sexy little "block quote".
