@@ -35,7 +35,7 @@ Wish me luck!
 
 <font size= "3"> UPDATE (02/06/2023):</font>  
 
-This [Markdown guide](https://www.markdownguide.org/getting-started/) has been really helpful as a beginner, after realising that Jekyll is the "markdown app" that is converting into HTML which is then readable by a browser.  
+<font size= "2">This </font>[<font size= "2">Markdown guide</font>](https://www.markdownguide.org/getting-started/) <font size= "2">has been really helpful as a beginner, after realising that Jekyll is the "markdown app" that is converting into HTML which is then readable by a browser.</font>    
 
 > <font size= "2">- Create a Markdown file using a text editor or a dedicated Markdown application. The file should have an .md or .markdown extension.</font>  
 > <font size= "2">- Open the Markdown file in a Markdown application.</font>  
