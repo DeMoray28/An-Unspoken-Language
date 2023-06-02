@@ -33,15 +33,15 @@ Wish me luck!
 
 -------------
 
-<font size="3"> UPDATE (02/06/2023):  </font>  
+UPDATE (02/06/2023):  
 
-<font size="2">This</font>[<font size= "2">Markdown guide</font>](https://www.markdownguide.org/getting-started/)<font size="2">has been really helpful as a beginner, after realising that Jekyll is the "markdown app" that is converting into HTML which is then readable by a browser.</font>    
+This [Markdown guide](https://www.markdownguide.org/getting-started/) has been really helpful as a beginner, after realising that Jekyll is the "markdown app" that is converting into HTML which is then readable by a browser.
 
-> <font size="2">- Create a Markdown file using a text editor or a dedicated Markdown application. The file should have an .md or .markdown extension.  </font>  
-> <font size="2">- Open the Markdown file in a Markdown application.  </font>  
-> <font size="2">- Use the Markdown application to convert the Markdown file to an HTML document.  </font>  
-> <font size="2">- View the HTML file in a web browser or use the Markdown application to convert it to another file format, like PDF.  </font>  
+> - Create a Markdown file using a text editor or a dedicated Markdown application. The file should have an .md or .markdown extension. 
+> - Open the Markdown file in a Markdown application.
+> - Use the Markdown application to convert the Markdown file to an HTML document.
+> - View the HTML file in a web browser or use the Markdown application to convert it to another file format, like PDF. 
 
 <img src="https://mdg.imgix.net/assets/images/markdown-flowchart.png?auto=format&fit=clip&q=40&w=1080" title="The 4 steps of Markdown">
 
-<font size="2">Using the material available on there, I have been able to insert some images, create line breaks, add empahsis to some text, and even put in a sexy little "block quote". </font>
+<Using the material available on there, I have been able to insert some images, create line breaks, add empahsis to some text, and even put in a sexy little "block quote".
