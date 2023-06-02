@@ -14,9 +14,7 @@ I'm not sure where to start off on this journey, but I definitely have a bad cas
 
 The sheer amount of languages available to learn is a little overwhelming, and not knowing what each of them specifically do or are used for isn't helping.
 
-<img src="https://svbtleusercontent.com/muafui36fghnhw.jpg" width= 50%>
-
-![WTF am I looking at?](https://svbtleusercontent.com/muafui36fghnhw.jpg "WTF am I looking at?")
+<img src="https://svbtleusercontent.com/muafui36fghnhw.jpg" width= "50%" title="WTF am I looking at?"> 
 
 From limited research, python seems to be very popular at the moment, and is capable over a range of applications with a reasonable learning curve for a **beginner**.
 
