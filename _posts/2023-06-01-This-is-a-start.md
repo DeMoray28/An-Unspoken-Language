@@ -19,6 +19,8 @@ From limited research, python seems to be very popular at the moment, and is cap
 I have watched an hour or so of Harvard's CS50 course which I have found on YouTube through recommendations from b and v-loggers alike.  
 I am hoping to gain some solid basic understandings and fundamentals in computer science from this as a base to build upon.
 
+![Harvards CS50](https://prod-discovery.edx-cdn.org/media/course/image/da1b2400-322b-459b-97b0-0c557f05d017-a3d1899c3344.small.png "Harvards CS50")
+
 I've just made this page using github pages and 'Jekyll', which I'm not entirely sure about how it works, but if this page loads I guess I followed the tutorial closely enough.
 
 Time will tell.
