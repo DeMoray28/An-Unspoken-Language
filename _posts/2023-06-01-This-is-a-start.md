@@ -34,4 +34,7 @@ Wish me luck!
 # UPDATE:
 
 This [Markdown guide](https://www.markdownguide.org/getting-started/) has been really helpful as a beginner.  
+
+<img src="https://mdg.imgix.net/assets/images/markdown-flowchart.png?auto=format&fit=clip&q=40&w=1080">
+
 Using the material available on there, I have been able to insert some images, create line breaks, add empahsis to some text, and even put in a sexy little "block quote".
