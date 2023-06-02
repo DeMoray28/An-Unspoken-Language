@@ -35,10 +35,10 @@ Wish me luck!
 
 This [Markdown guide](https://www.markdownguide.org/getting-started/) has been really helpful as a beginner.  
 
->-Create a Markdown file using a text editor or a dedicated Markdown application. The file should have an .md or .markdown extension.
->-Open the Markdown file in a Markdown application.
->-Use the Markdown application to convert the Markdown file to an HTML document.
->-View the HTML file in a web browser or use the Markdown application to convert it to another file format, like PDF.
+>-Create a Markdown file using a text editor or a dedicated Markdown application. The file should have an .md or .markdown extension.  
+>-Open the Markdown file in a Markdown application.  
+>-Use the Markdown application to convert the Markdown file to an HTML document.  
+>-View the HTML file in a web browser or use the Markdown application to convert it to another file format, like PDF.  
 
 <img src="https://mdg.imgix.net/assets/images/markdown-flowchart.png?auto=format&fit=clip&q=40&w=1080" title="The 4 steps of Markdown">
 
