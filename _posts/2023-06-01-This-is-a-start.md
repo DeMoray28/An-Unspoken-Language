@@ -34,7 +34,12 @@ Wish me luck!
 # UPDATE:
 
 This [Markdown guide](https://www.markdownguide.org/getting-started/) has been really helpful as a beginner.  
+>When you write in Markdown, the text is stored in a plaintext file that has an .md or .markdown extension. But then what? How is your Markdown-formatted file converted into HTML or a print-ready document?
 
-<img src="https://mdg.imgix.net/assets/images/markdown-flowchart.png?auto=format&fit=clip&q=40&w=1080">
+The short answer is that you need a Markdown application capable of processing the Markdown file. There are lots of applications available — everything from simple scripts to desktop applications that look like Microsoft Word. Despite their visual differences, all of the applications do the same thing. Like Dillinger, they all convert Markdown-formatted text to HTML so it can be displayed in web browsers.
+
+Markdown applications use something called a Markdown processor (also commonly referred to as a “parser” or an “implementation”) to take the Markdown-formatted text and output it to HTML format. At that point, your document can be viewed in a web browser or combined with a style sheet and printed. You can see a visual representation of this process below.
+
+<img src="https://mdg.imgix.net/assets/images/markdown-flowchart.png?auto=format&fit=clip&q=40&w=1080" title="The 4 steps of Markdown">
 
 Using the material available on there, I have been able to insert some images, create line breaks, add empahsis to some text, and even put in a sexy little "block quote".
