@@ -11,10 +11,12 @@ The sheer amount of languages available to learn is a little overwhelming, and n
 
 From limited research, python seems to be very popular at the moment, and is capable over a range of applications with a reasonable learning curve for a beginner.
 
+>Python is a high-level, interpreted programming language with a simple syntax, which makes it easily readable and extremely user- and beginner-friendly. Originally built to satisfy Guido Van Rossum’s desire for a programming language that was simple to use and beautiful to look at, Python was first released to the world in 1991.
+
 I have watched an hour or so of Harvard's CS50 course which I have found on YouTube through recommendations from b and v-loggers alike.
 I am hoping to gain some solid basic understandings and fundamentals in computer science from this as a base to build upon.
 
-I've just amde this page using github pages and 'Jekyll', which I'm not entirely sure on how it works, but if this page loads I guess I followed the tutorial closely enough.
+I've just made this page using github pages and 'Jekyll', which I'm not entirely sure about how it works, but if this page loads I guess I followed the tutorial closely enough.
 
 Time will tell.
 
