@@ -9,6 +9,7 @@ I am almost a completely blank canvas, apart from doing some very basic HTML in 
 I'm not sure where to start off on this journey, but I definitely have a bad case of option paralysis...  
 
 The sheer amount of languages available to learn is a little overwhelming, and not knowing what each of them specifically do or are used for isn't helping.
+
 ![WTF and I looking at?](https://svbtleusercontent.com/muafui36fghnhw.jpg "WTF am I looking at?")
 
 From limited research, python seems to be very popular at the moment, and is capable over a range of applications with a reasonable learning curve for a beginner.
