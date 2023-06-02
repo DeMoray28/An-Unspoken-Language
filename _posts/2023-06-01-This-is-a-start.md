@@ -33,7 +33,7 @@ Wish me luck!
 
 -------------
 
-<font size="3"> UPDATE (02/06/2023):</font>  
+<font size="3"> UPDATE (02/06/2023):  </font>  
 
 <font size="2">This</font>[<font size= "2">Markdown guide</font>](https://www.markdownguide.org/getting-started/)<font size="2">has been really helpful as a beginner, after realising that Jekyll is the "markdown app" that is converting into HTML which is then readable by a browser.</font>    
 
