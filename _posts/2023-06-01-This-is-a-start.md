@@ -33,4 +33,4 @@ Wish me luck!
 # UPDATE:
 
 This [Markdown guide](https://www.markdownguide.org/getting-started/) has been really helpful as a beginner.  
-Using the material available on there, I ahve been able to insert some images, create line breaks, add empahsis to some text, and even put in a sexy little "block quote".
+Using the material available on there, I have been able to insert some images, create line breaks, add empahsis to some text, and even put in a sexy little "block quote".
