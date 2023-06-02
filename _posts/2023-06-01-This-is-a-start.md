@@ -20,7 +20,7 @@ From limited research, python seems to be very popular at the moment, and is cap
 
 >Python is a high-level, interpreted programming language with a simple syntax, which makes it easily readable and extremely user- and beginner-friendly. Originally built to satisfy Guido Van Rossum’s desire for a programming language that was simple to use and beautiful to look at, Python was first released to the world in 1991.
 
-I have watched an hour or so of Harvard's CS50 course which I have found on YouTube through recommendations from b and v-loggers alike.  
+I have watched an hour or so of Harvard's CS50 course which I have found on YouTube through recommendations multiple online sources.  
 I am hoping to gain some solid basic understandings and fundamentals in computer science from this as a base to build upon.
 
 ![Harvards CS50](https://prod-discovery.edx-cdn.org/media/course/image/da1b2400-322b-459b-97b0-0c557f05d017-a3d1899c3344.small.png "Harvards CS50")
@@ -31,9 +31,11 @@ Time will tell.
 
 Wish me luck!
 
-# UPDATE:
+-------------
 
-This [Markdown guide](https://www.markdownguide.org/getting-started/) has been really helpful as a beginner.  
+<font size= "2"> UPDATE (02/06/2023):
+
+This [Markdown guide](https://www.markdownguide.org/getting-started/) has been really helpful as a beginner, after realising that Jekyll is the "markdown app" that is converting into HTML which is then readable by a browser.  
 
 > - Create a Markdown file using a text editor or a dedicated Markdown application. The file should have an .md or .markdown extension.  
 > - Open the Markdown file in a Markdown application.  
@@ -42,4 +44,4 @@ This [Markdown guide](https://www.markdownguide.org/getting-started/) has been r
 
 <img src="https://mdg.imgix.net/assets/images/markdown-flowchart.png?auto=format&fit=clip&q=40&w=1080" title="The 4 steps of Markdown">
 
-Using the material available on there, I have been able to insert some images, create line breaks, add empahsis to some text, and even put in a sexy little "block quote".
+Using the material available on there, I have been able to insert some images, create line breaks, add empahsis to some text, and even put in a sexy little "block quote". </font>
