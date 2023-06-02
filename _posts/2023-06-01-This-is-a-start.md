@@ -20,7 +20,7 @@ From limited research, python seems to be very popular at the moment, and is cap
 
 >Python is a high-level, interpreted programming language with a simple syntax, which makes it easily readable and extremely user- and beginner-friendly. Originally built to satisfy Guido Van Rossum’s desire for a programming language that was simple to use and beautiful to look at, Python was first released to the world in 1991.
 
-I have watched an hour or so of Harvard's CS50 course which I have found on YouTube through recommendations from b and v-loggers alike.  
+I have watched an hour or so of Harvard's CS50 course which I have found on YouTube through recommendations multiple online sources.  
 I am hoping to gain some solid basic understandings and fundamentals in computer science from this as a base to build upon.
 
 ![Harvards CS50](https://prod-discovery.edx-cdn.org/media/course/image/da1b2400-322b-459b-97b0-0c557f05d017-a3d1899c3344.small.png "Harvards CS50")
@@ -31,7 +31,7 @@ Time will tell.
 
 Wish me luck!
 
-# UPDATE:
+UPDATE (02/06/2023):
 
 This [Markdown guide](https://www.markdownguide.org/getting-started/) has been really helpful as a beginner.  
 
